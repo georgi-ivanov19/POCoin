@@ -270,8 +270,8 @@ You can also interact with the wallet API by sending a transaction to an address
 In the center of the screen the blockchain can be observed. You can expand the blocks to see the transaction's information inside, or scroll all the way down to inspect the genesis block.
 
 Try and check if the information displayed is consistent with the data displayed in the wallets and nodes!
-
-_Note that some data has either been truncated or base32 encoded before being displayed to the frontend_
+>[!NOTE]
+>Note that some data has either been truncated or base32 encoded before being displayed to the frontend
 
 ### Nodes
 
