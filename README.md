@@ -262,7 +262,8 @@ The interface exposes underlying wallet data:
 
 You can also interact with the wallet API by sending a transaction to an address. Try sending a transaction between 2 addresses using the form at the bottom and observe the nodes mining the new block and the transaction being added to the blockchain!
 
-_Note that some data, such as keys and txid has either been truncated or base32 encoded before being displayed to the frontend_
+>[!NOTE]
+>Some data, such as keys and txid has either been truncated or base32 encoded before being displayed to the frontend
 
 ### Blockchain
 
